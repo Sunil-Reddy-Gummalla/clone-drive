@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ServerApplication<drive>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.clone.drive.ServerApplication",
+            "projectName": "drive",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
